@@ -1,0 +1,6 @@
+{
+  "name": "Parikrama - The Circle of Nature",
+  "description": "Cinematic Indian adventure travel & trekking expeditions. Escape the ordinary across Sahyadri peaks, Himalayan trails, hidden waterfalls, and wilderness camps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
